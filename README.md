@@ -1,10 +1,15 @@
 ### Hi there, I'm Fadi Abdessalem! 👋
 
-I'm a Software Engineer passionate about Machine Learning, Web Development, and Artificial Intelligence. With a background in Computer Science and 1 year of industry experience, I thrive on solving complex problems and creating innovative solutions. My skills include C++, Java, JavaScript, React.js, Node.js, and Express.js.
+I'm a Software Engineer passionate about Machine Learning, Web Development, and Artificial Intelligence. With a background in Computer Science and 1 year of industry experience, I thrive on solving complex problems and creating innovative solutions.
+
+### Skills
+- Programming Languages: C++, Java
+- Web Development: JavaScript, React.js, Node.js, Express.js
 
 
 ### 📫 Get in Touch
 - Email: fadi.abdessaleem@gmail.com
+
 
 ### ⚡ Fun Fact
 
