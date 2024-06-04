@@ -1,10 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Fadi Abdessalem! 👋
+
+I'm a Software Engineer passionate about Machine Learning, Web Development, and Artificial Intelligence. With a background in Computer Science and 1 year of industry experience, I thrive on solving complex problems and creating innovative solutions. My skills include C++, Java, JavaScript, React.js, Node.js, and Express.js.
 
 
+### 📫 Get in Touch
+- Email: fadi.abdessaleem@gmail.com
 
+### ⚡ Fun Fact
 
-
-
+Looking forward to connecting and collaborating with fellow enthusiasts and professionals in the Technology community!
 
 <!--
 **fadi-REX/fadi-REX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
