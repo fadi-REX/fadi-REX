@@ -4,8 +4,8 @@ I'm a Software Engineer passionate about Machine Learning, Web Development, and 
 
 
 ### 💼 Skills
-- Programming Languages: C++, Java
-- Web Development: JavaScript, React.js, Node.js, Express.js
+- Programming Languages: C++, Java, Python
+- Web Development: JavaScript, React.js, Node.js, Express.js, MongoDB
 
 
 ### 📫 Get in Touch
